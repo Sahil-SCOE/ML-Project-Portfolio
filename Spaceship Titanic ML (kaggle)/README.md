@@ -110,7 +110,7 @@ Held-out Val Acc:   78.90%
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/<Sahil-SCOE>/ML Project Portfolio/spaceship-titanic-ml.git
+git clone https://github.com/Sahil-SCOE/ML Project Portfolio/spaceship-titanic-ml.git
 cd spaceship-titanic-ml
 
 # 2. Install dependencies
